@@ -1,4 +1,4 @@
-package com.agarrison.com.agarrison.maven.eclipse.test1;
+package com.agarrison.tutorial.test1;
 
 /**
  * Hello world!

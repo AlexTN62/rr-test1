@@ -5,13 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.agarrison</groupId>
-  <artifactId>com.agarrison.maven.eclipse.test1</artifactId>
+  <artifactId>tutorial.test1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>com.agarrison.maven.eclipse.test1</name>
+  <name>com.agarrison.tutorial.test1</name>
   <description>A simple java app using maven</description>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -1,4 +1,4 @@
-package com.agarrison.com.agarrison.maven.eclipse.test1;
+package com.agarrison.tutorial.junit.test1;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
